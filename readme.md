@@ -1,6 +1,6 @@
 Real-time 'Actor-Critic' tracking
 =========================================
-Code for Real-time 'Actor-Critic' tracking accepted by ECCV 2018
+Code for [Real-time 'Actor-Critic' tracking](https://drive.google.com/file/d/18N0G1vX148SQWBuvG5sdAXjlSJH3yUua/view) accepted by ECCV 2018
 
 Introduction
 --------------------------------
