@@ -5,7 +5,7 @@ Code for Real-time 'Actor-Critic' tracking accepted by ECCV 2018
 Introduction
 --------------------------------
 We propose a novel tracking algorithm with real-time performance based on the ‘Actor-Critic’ framework.
-![structure](https://github.com/bychen515/ACT/ACT.png)  
+![](https://github.com/bychen515/ACT/ACT.png)  
 
 Requirements
 --------------------------
