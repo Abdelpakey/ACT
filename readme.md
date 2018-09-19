@@ -22,13 +22,13 @@ Usage
 Citation
 --------------------
 If you find ACT useful in your research, please kindly cite our paper:</br>
-    @InProceedings{Chen_2018_ECCV,
-    author = {Chen, Boyu and Wang, Dong and Li, Peixia and Wang, Shuang and Lu, Huchuan},
-    title = {Real-time 'Actor-Critic' Tracking},
-    booktitle = {The European Conference on Computer Vision (ECCV)},
-    month = {September},
-    year = {2018}
-    }
+        @InProceedings{Chen_2018_ECCV,
+        author = {Chen, Boyu and Wang, Dong and Li, Peixia and Wang, Shuang and Lu, Huchuan},
+        title = {Real-time 'Actor-Critic' Tracking},
+        booktitle = {The European Conference on Computer Vision (ECCV)},
+        month = {September},
+        year = {2018}
+        }
 
 Contact
 --------------------
