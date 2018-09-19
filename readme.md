@@ -15,7 +15,7 @@ Requirements
 Usage
 --------------------------
 ### Train
-
+  Coming soon.
 ### Test
   Please run 'tracking/run_tracker.py' for demo.
  
