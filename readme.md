@@ -17,4 +17,12 @@ Usage
 ### Train
 
 ### Test
-Please run 'tracking/run_tracker.py' for demo.
+  Please run 'tracking/run_tracker.py' for demo.
+ 
+Citation
+--------------------
+If you find ACT useful in your research, please kindly cite our paper:
+
+Contact
+--------------------
+If you have any questions, please feel free to contact bychen@mail.dlut.edu.cn
