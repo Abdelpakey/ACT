@@ -5,7 +5,8 @@ Code for [Real-time 'Actor-Critic' tracking](https://drive.google.com/file/d/18N
 Introduction
 --------------------------------
 We propose a novel tracking algorithm with real-time performance based on the ‘Actor-Critic’ framework.</br>
-[Results on OTB100](https://drive.google.com/open?id=1wNv8pKWFz7n3-izZDQYKdCxyLjv76a2Y)</br>
+[Results on OTB100](https://drive.google.com/open?id=1wNv8pKWFz7n3-izZDQYKdCxyLjv76a2Y) </br>
+
 ![](https://github.com/bychen515/ACT/blob/master/ACT.png)  
 
 Requirements
