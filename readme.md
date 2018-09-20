@@ -16,9 +16,11 @@ Requirements
 Usage
 --------------------------
 ### Train
-  Coming soon.
+  1. Please download the `ILSVRC VID dataset`, and put the `VID` folder into  </br>
+  `$(ACT_root)/train/`
+  2. Run the `$(ACT_root)/train/DDPG_train.py` for train the 'Actor and Critic' network.
 ### Test
-  Please run 'tracking/run_tracker.py' for demo.
+  Please run `$(ACT_root)/tracking/run_tracker.py` for demo.
  
 Citation
 --------------------
