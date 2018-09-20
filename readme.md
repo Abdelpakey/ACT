@@ -16,8 +16,7 @@ Requirements
 Usage
 --------------------------
 ### Train
-  1. Please download the `ILSVRC VID dataset`, and put the `VID` folder into  </br>
-  `$(ACT_root)/train/` </br>
+  1. Please download the `ILSVRC VID dataset`, and put the `VID` folder into `$(ACT_root)/train/` </br>
   (We adopt the same videos as [meta_trackers](https://github.com/silverbottlep/meta_trackers). You can find more details in `ilsvrc_train.json`.)
   2. Run the `$(ACT_root)/train/DDPG_train.py` for train the 'Actor and Critic' network.
 ### Test
