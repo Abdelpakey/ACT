@@ -32,6 +32,10 @@ If you find ACT useful in your research, please kindly cite our paper:</br>
     year = {2018}
     }
 
+Acknowledgments
+------------------------------
+Many parts of this code are adopted from other related works([py-MDNet](https://github.com/HyeonseobNam/py-MDNet) and [meta_trackers](https://github.com/silverbottlep/meta_trackers))
+
 Contact
 --------------------
 If you have any questions, please feel free to contact bychen@mail.dlut.edu.cn
